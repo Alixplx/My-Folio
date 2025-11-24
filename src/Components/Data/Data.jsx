@@ -6,6 +6,7 @@ import Imgproject_5 from "../../assets/project_5.jpg"
 import Imgproject_6 from "../../assets/project_6.jpg"
 import Imgproject_7 from "../../assets/project_7.jpg"
 import Imgproject_8 from "../../assets/project_8.jpg"
+import Imgproject_9 from "../../assets/project_9.jpg"
 
 
 const categories = ["All", "React js", "Html + Css", "JavaScript", "TypeScript"]
@@ -66,6 +67,13 @@ const allProjects = [
         title: "Leon Landing Page In HTML + CSS",
         link: "https://alixplx.github.io/Leon-Project/",
         image: Imgproject_8,
+        category: "Html + Css",
+    },
+    {
+        id: 9,
+        title: "Kasper Landing Page In HTML + CSS",
+        link: "https://alixplx.github.io/Kasper-Project/",
+        image: Imgproject_9,
         category: "Html + Css",
     },
 ]
