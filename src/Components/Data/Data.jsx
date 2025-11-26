@@ -11,9 +11,22 @@ import Imgproject_10 from "../../assets/project_10.jpg"
 import Imgproject_11 from "../../assets/project_11.jpg"
 import Imgproject_12 from "../../assets/project_12.jpg"
 import Imgproject_13 from "../../assets/project_13.jpg"
+import Imgproject_14 from "../../assets/project_14.jpg"
+import Imgproject_15 from "../../assets/project_15.jpg"
+import Imgproject_16 from "../../assets/project_16.jpg"
+import Imgproject_17 from "../../assets/project_17.jpg"
+import Imgproject_18 from "../../assets/project_18.jpg"
+import Imgproject_19 from "../../assets/project_19.jpg"
+import Imgproject_20 from "../../assets/project_20.jpg"
+import Imgproject_21 from "../../assets/project_21.jpg"
+import Imgproject_22 from "../../assets/project_22.jpg"
+import Imgproject_23 from "../../assets/project_23.jpg"
+import Imgproject_24 from "../../assets/project_24.jpg"
+import Imgproject_25 from "../../assets/project_25.jpg"
+import Imgproject_26 from "../../assets/project_26.jpg"
 
 
-const categories = ["All", "React js", "Html + Css", "JavaScript", "TypeScript"]
+const categories = ["All", "React js", "Html + Css", "JavaScript", "TypeScript", "Bootstrap"]
 
 const allProjects = [
 
@@ -106,6 +119,97 @@ const allProjects = [
         title: "Memory Game In JavaScript",
         link: "https://alixplx.github.io/Memory-Game/",
         image: Imgproject_13,
+        category: "JavaScript",
+    },
+    {
+        id: 14,
+        title: "Typing Speed Game In JavaScript",
+        link: "https://alixplx.github.io/Typing-Speed/",
+        image: Imgproject_14,
+        category: "JavaScript",
+    },
+    {
+        id: 15,
+        title: "To-Do List App In JavaScript",
+        link: "https://alixplx.github.io/To-Do-App/",
+        image: Imgproject_15,
+        category: "JavaScript",
+    },
+    {
+        id: 16,
+        title: "A Simple Website 1 In Bootstrap",
+        link: "https://alixplx.github.io/Website-With-BootStrap-1/",
+        image: Imgproject_16,
+        category: "Bootstrap",
+    },
+    {
+        id: 17,
+        title: "A Simple Website 2 In Bootstrap",
+        link: "https://alixplx.github.io/Website-With-BootStrap-2/",
+        image: Imgproject_17,
+        category: "Bootstrap",
+    },
+    {
+        id: 18,
+        title: "A Simple Website 3 In Bootstrap",
+        link: "https://alixplx.github.io/Website-With-BootStrap-3/",
+        image: Imgproject_18,
+        category: "Bootstrap",
+    },
+    {
+        id: 19,
+        title: "Photo Editor App In JavaScript",
+        link: "https://alixplx.github.io/Photo-Editor/",
+        image: Imgproject_19,
+        category: "JavaScript",
+    },
+    {
+        id: 20,
+        title: "Swiper Website In JavaScript + Html + Css",
+        link: "https://alixplx.github.io/Swipe/",
+        image: Imgproject_20,
+        category: "Html + Css",
+    },
+    {
+        id: 21,
+        title: "Guess The Word Game In JavaScript",
+        link: "https://alixplx.github.io/Guess-The-Word/",
+        image: Imgproject_21,
+        category: "JavaScript",
+    },
+    {
+        id: 22,
+        title: "Product Management In JavaScript",
+        link: "https://alixplx.github.io/Product-Management/",
+        image: Imgproject_22,
+        category: "JavaScript",
+    },
+    {
+        id: 23,
+        title: "Crud Operations In JavaScript",
+        link: "https://alixplx.github.io/Crud-Operations/",
+        image: Imgproject_23,
+        category: "JavaScript",
+    },
+    {
+        id: 24,
+        title: "Employee Management In JavaScript",
+        link: "https://alixplx.github.io/Employee-Management/",
+        image: Imgproject_24,
+        category: "JavaScript",
+    },
+    {
+        id: 25,
+        title: "Full Wesbites Collection With Api & Others",
+        link: "https://alixplx.github.io/Simple-JS-APPS/",
+        image: Imgproject_25,
+        category: "JavaScript",
+    },
+    {
+        id: 26,
+        title: "Full Wesbites Collection With Api & Others",
+        link: "https://alixplx.github.io/Education-Website/index.html",
+        image: Imgproject_26,
         category: "JavaScript",
     },
 ]
