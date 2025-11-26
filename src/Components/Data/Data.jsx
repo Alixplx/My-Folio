@@ -7,6 +7,10 @@ import Imgproject_6 from "../../assets/project_6.jpg"
 import Imgproject_7 from "../../assets/project_7.jpg"
 import Imgproject_8 from "../../assets/project_8.jpg"
 import Imgproject_9 from "../../assets/project_9.jpg"
+import Imgproject_10 from "../../assets/project_10.jpg"
+import Imgproject_11 from "../../assets/project_11.jpg"
+import Imgproject_12 from "../../assets/project_12.jpg"
+import Imgproject_13 from "../../assets/project_13.jpg"
 
 
 const categories = ["All", "React js", "Html + Css", "JavaScript", "TypeScript"]
@@ -75,6 +79,34 @@ const allProjects = [
         link: "https://alixplx.github.io/Kasper-Project/",
         image: Imgproject_9,
         category: "Html + Css",
+    },
+    {
+        id: 10,
+        title: "Awesome Landing Page In HTML + CSS",
+        link: "https://alixplx.github.io/New-Template/",
+        image: Imgproject_10,
+        category: "Html + Css",
+    },
+    {
+        id: 11,
+        title: "Full Dashboard Website In JavaScript",
+        link: "https://alixplx.github.io/My-Dashboard/",
+        image: Imgproject_11,
+        category: "JavaScript",
+    },
+    {
+        id: 12,
+        title: "Hangman Game In JavaScript",
+        link: "https://alixplx.github.io/Hangman-Game/",
+        image: Imgproject_12,
+        category: "JavaScript",
+    },
+    {
+        id: 13,
+        title: "Memory Game In JavaScript",
+        link: "https://alixplx.github.io/Memory-Game/",
+        image: Imgproject_13,
+        category: "JavaScript",
     },
 ]
 
