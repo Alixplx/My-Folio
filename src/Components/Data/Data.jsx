@@ -24,6 +24,19 @@ import Imgproject_23 from "../../assets/project_23.jpg"
 import Imgproject_24 from "../../assets/project_24.jpg"
 import Imgproject_25 from "../../assets/project_25.jpg"
 import Imgproject_26 from "../../assets/project_26.jpg"
+import Imgproject_27 from "../../assets/project_27.jpg"
+import Imgproject_28 from "../../assets/project_28.jpg"
+import Imgproject_29 from "../../assets/project_29.jpg"
+import Imgproject_30 from "../../assets/project_30.jpg"
+import Imgproject_31 from "../../assets/project_31.jpg"
+import Imgproject_32 from "../../assets/project_32.jpg"
+import Imgproject_33 from "../../assets/project_33.jpg"
+import Imgproject_34 from "../../assets/project_34.jpg"
+import Imgproject_35 from "../../assets/project_35.jpg"
+import Imgproject_36 from "../../assets/project_36.jpg"
+import Imgproject_37 from "../../assets/project_37.jpg"
+
+
 
 
 const categories = ["All", "React js", "Html + Css", "JavaScript", "TypeScript", "Bootstrap"]
@@ -212,6 +225,83 @@ const allProjects = [
         image: Imgproject_26,
         category: "JavaScript",
     },
+    {
+        id: 27,
+        title: "Store Website E-Commerce In Html + Css",
+        link: "https://alixplx.github.io/.Store-App-E-Commerce-/",
+        image: Imgproject_27,
+        category: "Html + Css",
+    },
+    {
+        id: 28,
+        title: "Full E-Commerce Website In Html + Css + JavaScript",
+        link: "https://alixplx.github.io/.Topico_E_Commerce_App/index.html",
+        image: Imgproject_28,
+        category: "JavaScript",
+    },
+    {
+        id: 29,
+        title: "Full Product Management App In JavaScript",
+        link: "https://alixplx.github.io/Full-Product-Mangement/index.html",
+        image: Imgproject_29,
+        category: "JavaScript",
+    },
+    {
+        id: 30,
+        title: "Quiz Website In JavaScript",
+        link: "https://alixplx.github.io/Quiz-App/",
+        image: Imgproject_30,
+        category: "JavaScript",
+    },
+    {
+        id: 31,
+        title: "Foodera Restaurent Website In React js",
+        link: "https://alixplx.github.io/Foodera-React/",
+        image: Imgproject_31,
+        category: "React js",
+    },
+    {
+        id: 32,
+        title: "Fitness World Website In JavaScript",
+        link: "https://alixplx.github.io/Fitness-World/",
+        image: Imgproject_32,
+        category: "JavaScript",
+    },
+    {
+        id: 33,
+        title: "Bookstore Website In Html + Css",
+        link: "https://alixplx.github.io/BookStore/",
+        image: Imgproject_33,
+        category: "Html + Css",
+    },
+    {
+        id: 34,
+        title: "A Simple Api Website In JavaScript",
+        link: "https://alixplx.github.io/Simple-Api/",
+        image: Imgproject_34,
+        category: "JavaScript",
+    },
+    {
+        id: 35,
+        title: "Animated Website 1 In Html + Css",
+        link: "https://alixplx.github.io/Animated-Website/",
+        image: Imgproject_35,
+        category: "Html + Css",
+    },
+    {
+        id: 36,
+        title: "Animated Website 2 In Html + Css",
+        link: "https://alixplx.github.io/Animated-Website-2/",
+        image: Imgproject_36,
+        category: "Html + Css",
+    },
+    {
+        id: 37,
+        title: "Parallex Website In Html + Css",
+        link: "https://alixplx.github.io/Parallex-Website/",
+        image: Imgproject_37,
+        category: "Html + Css",
+    },
 ]
 
 const bestProjects = [
@@ -251,6 +341,84 @@ const bestProjects = [
         title: "Cast Weather App In TypeScript",
         link: "https://tourmaline-quokka-6c3627.netlify.app/",
         image: Imgproject_7
+    },
+    {
+        id: 7,
+        title: "Bookstore Website In Html + Css",
+        link: "https://alixplx.github.io/BookStore/",
+        image: Imgproject_33
+    },
+    {
+        id: 8,
+        title: "Animated Website 2 In Html + Css",
+        link: "https://alixplx.github.io/Animated-Website-2/",
+        image: Imgproject_36
+    },
+    {
+        id: 9,
+        title: "Fitness World Website In JavaScript",
+        link: "https://alixplx.github.io/Fitness-World/",
+        image: Imgproject_32
+    },
+    {
+        id: 10,
+        title: "Full Product Management App In JavaScript",
+        link: "https://alixplx.github.io/Full-Product-Mangement/index.html",
+        image: Imgproject_29,
+    },
+    {
+        id: 11,
+        title: "Full Wesbites Collection With Api & Others",
+        link: "https://alixplx.github.io/Education-Website/index.html",
+        image: Imgproject_26,
+    },
+    {
+        id: 12,
+        title: "Store Website E-Commerce In Html + Css",
+        link: "https://alixplx.github.io/.Store-App-E-Commerce-/",
+        image: Imgproject_27,
+    },
+    {
+        id: 13,
+        title: "Full E-Commerce Website In Html + Css + JavaScript",
+        link: "https://alixplx.github.io/.Topico_E_Commerce_App/index.html",
+        image: Imgproject_28,
+    },
+    {
+        id: 14,
+        title: "Product Management In JavaScript",
+        link: "https://alixplx.github.io/Product-Management/",
+        image: Imgproject_22,
+    },
+    {
+        id: 15,
+        title: "Crud Operations In JavaScript",
+        link: "https://alixplx.github.io/Crud-Operations/",
+        image: Imgproject_23,
+    },
+    {
+        id: 16,
+        title: "Employee Management In JavaScript",
+        link: "https://alixplx.github.io/Employee-Management/",
+        image: Imgproject_24,
+    },
+    {
+        id: 17,
+        title: "Full Dashboard Website In JavaScript",
+        link: "https://alixplx.github.io/My-Dashboard/",
+        image: Imgproject_11,
+    },
+    {
+        id: 18,
+        title: "Hangman Game In JavaScript",
+        link: "https://alixplx.github.io/Hangman-Game/",
+        image: Imgproject_12,
+    },
+    {
+        id: 19,
+        title: "Memory Game In JavaScript",
+        link: "https://alixplx.github.io/Memory-Game/",
+        image: Imgproject_13,
     },
 ]
 
